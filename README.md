@@ -24,25 +24,21 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 
 ### WHOIS-
-![image](https://github.com/user-attachments/assets/dc19753f-af3a-4ce5-b726-f67bb586dc9c)
-
+![Screenshot (189)](https://github.com/user-attachments/assets/ca032cd7-030d-4738-b68b-af9b27bea321)
 
 ### IP2LOCATION-
-![image](https://github.com/user-attachments/assets/a9d64ec2-0508-4c96-a049-788a0d008db6)
-
+![Screenshot (191)](https://github.com/user-attachments/assets/04f81d62-28c2-4239-b404-6f1d71df6e70)
 
 ### WEB ARCHIVE-
-![image](https://github.com/user-attachments/assets/5ff217c9-39e6-44e2-8a24-d5ba7cd76a29)
-
+![image](https://github.com/user-attachments/assets/eef6cfee-7c4a-4e75-890a-71b6a62629a3)
 
 ## WEBSERVER FINGERPRINTING:
 
 ### NMAP-
-![image](https://github.com/user-attachments/assets/c10aed66-7447-4f29-a00c-8dab7e8e5e46)
-
+![Screenshot (182)](https://github.com/user-attachments/assets/3be2a6fd-ecd8-44df-8dba-7192db0b845b)
 
 ### NETCAT-
-![image](https://github.com/user-attachments/assets/65d4c5fe-2dde-4b08-a909-97df8bbc235b)
+![Screenshot (182)](https://github.com/user-attachments/assets/783c51f3-8db6-4cbd-aefc-cbb5fbd5adb1)
 
 ### WHATWEB-
 ![image](https://github.com/user-attachments/assets/efde9b3d-a3be-4ae0-9198-22cb6e80dd65)
