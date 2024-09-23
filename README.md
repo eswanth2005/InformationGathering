@@ -35,36 +35,29 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## WEBSERVER FINGERPRINTING:
 
 ### NMAP-
-![Screenshot (182)](https://github.com/user-attachments/assets/3be2a6fd-ecd8-44df-8dba-7192db0b845b)
+![Screenshot (182)](https://github.com/user-attachments/assets/af2e4d7c-ca8b-4a41-9618-7ee9a642d92b)
 
 ### NETCAT-
-![Screenshot (182)](https://github.com/user-attachments/assets/783c51f3-8db6-4cbd-aefc-cbb5fbd5adb1)
+![Screenshot (188)](https://github.com/user-attachments/assets/b0630ac7-8115-480b-b418-40d20454674a)
 
 ### WHATWEB-
-![image](https://github.com/user-attachments/assets/efde9b3d-a3be-4ae0-9198-22cb6e80dd65)
-![image](https://github.com/user-attachments/assets/2a7135be-5d57-443d-b2fe-e73eb5690331)
-
+![Screenshot (183)](https://github.com/user-attachments/assets/414c4ae2-d486-4914-969b-a368f0b6fc03)
 
 ### HTTPRINT-
 
 ![image](https://github.com/user-attachments/assets/2f7d0e99-651c-4ef9-8482-e5fe08e4e758)
 
-
-
 ### PING-
-![image](https://github.com/user-attachments/assets/a161a97e-9d8b-4283-b1b8-f1763f2882e1)
-
+![Screenshot (184)](https://github.com/user-attachments/assets/159a7697-14ee-44bb-8e96-12da3cb9270f)
 
 ### ICMP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/bddc568b-91bf-470e-b841-fa4328473c36)
-
+![Screenshot (185)](https://github.com/user-attachments/assets/4ac7ddad-27b1-4a56-b338-ffd9f39d46c9)
 
 ### TCP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/909e7abc-af64-44d5-8b34-f60b9c1158ae)
-
+![Screenshot (186)](https://github.com/user-attachments/assets/a067a677-3f51-450c-989d-78134bd790a7)
 
 ### UDP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/b0839827-70eb-4cf7-9e79-64a94d6200aa)
+![Screenshot (187)](https://github.com/user-attachments/assets/eb7b9534-f950-4024-a164-65950ec99149)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
