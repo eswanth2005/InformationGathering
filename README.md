@@ -43,10 +43,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### WHATWEB-
 ![Screenshot (183)](https://github.com/user-attachments/assets/414c4ae2-d486-4914-969b-a368f0b6fc03)
 
-### HTTPRINT-
-
-![image](https://github.com/user-attachments/assets/2f7d0e99-651c-4ef9-8482-e5fe08e4e758)
-
 ### PING-
 ![Screenshot (184)](https://github.com/user-attachments/assets/159a7697-14ee-44bb-8e96-12da3cb9270f)
 
