@@ -30,7 +30,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![Screenshot (191)](https://github.com/user-attachments/assets/04f81d62-28c2-4239-b404-6f1d71df6e70)
 
 ### WEB ARCHIVE-
-![image](https://github.com/user-attachments/assets/eef6cfee-7c4a-4e75-890a-71b6a62629a3)
+![Screenshot (192)](https://github.com/user-attachments/assets/b9c39dd4-96e4-4c9c-b518-07c58572b648)
 
 ## WEBSERVER FINGERPRINTING:
 
