@@ -3,6 +3,9 @@ Information Gathering Techiques
 
 # To perform information gathering techniques
 
+## NAME :- ESWANTH KUMAR K
+## REG NO:- 212223040046
+
 # AIM:
 
 To perform information gathering techniques using kali linux 
